@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+
+body, * {
+    box-sizing: border-box;
+}
+
+.backImage1 {
+    background-image: url('../public/images/backimage.jpg');
+    height: 40rem;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+@media screen and (min-width:280px) {
+    .backImage1 {
+        height: 30rem;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .backImage1 {
+        height: 40rem;
+    }
+}

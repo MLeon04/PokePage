@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "imageTitle" : "anuncio1",
+        "description" : "Temporada 3 Lista",
+        "infoNew": "Visita nuesta pagina e informate de la nueva temporada de pokemon y su nueva aventura al lato de todos sus amigos"
+    },
+    {
+        "id": 2,
+        "imageTitle" : "anuncio2",
+        "description" : "Celebra tu cumpleaños pokemon",
+        "infoNew" : "Checa las fechas de los cumpleaños pokemon y celebra tu dia junto a ellos"
+    },
+    {
+        "id": 3,
+        "imageTitle" : "anuncio3",
+        "description" : "Nuevos pokemons agregados",
+        "infoNew" : "Visita nuetra pagina y conoce mas sobre los nuevos pokemons y sus habiliades de combate, asi como su abitad y su tipo pokemon"
+    },
+    {
+        "id": 4,
+        "imageTitle" : "anuncio4",
+        "description" : "Unete a una nueva aventura pokemon",
+        "infoNew" : "Ven y envuelvete de un gran viaje al lado de pikachu y sus amigos, donde visitaran el mundo pokemon y encontraran nuevos retos"
+    },
+    {
+        "id": 5,
+        "imageTitle" : "anuncio5",
+        "description" : "Compite por el trofeo de la copa UNITE",
+        "infoNew" : "Se inaugura el primer torneo deportivo pokemon de futbolmano donde podras participar e inscribir a tu equipo y tendran de ganar la nueva copa UNITE"
+    },
+    {
+        "id": 6,
+        "imageTitle" : "anuncio6",
+        "description" : "Viaja a traves del mundo pokemon y lucha para ganar",
+        "infoNew" : "recorre el mundo pokemon logrando objetivos, ganando torneos y la posibilidad de ganar la copa piston."
+    }
+
+]
