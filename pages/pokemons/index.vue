@@ -40,7 +40,7 @@
     <div>
         <Search/>
     </div>
-    <div>
-        <PokemonSquare v-for="i in getRange.value" :key="i" :id="i.toString()"/>
+    <div class="grid grid-cols-4 h-216">
+        <PokemonSquare v-for="i in getRange.value" :key="i" :id="i.toString()" />
     </div>
 </template>
